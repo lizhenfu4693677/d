@@ -1,0 +1,18 @@
+{
+    "name": "lizhefu4693677/d",
+    "description": "this test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lizhenfu",
+            "email": "848372551@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "tools.php"
+        ]
+    }
+}
